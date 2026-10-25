@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://billsusedcarsma.com/sitemap.xml

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
+  <title id="title">New England delivery area map</title>
+  <desc id="desc">A simplified pastel map of New England with Baldwinville, Massachusetts marked near the center.</desc>
+  <rect width="760" height="430" fill="#e9e5d5"/>
+  <path d="M0 0h760v430H0z" fill="#e8e7d6"/>
+  <path d="M585 0h175v430H585z" fill="#a8cde0"/>
+  <path d="M585 0q-28 70-5 120t-7 100q-22 63 2 112t-4 98" fill="none" stroke="#8dbbd2" stroke-width="13"/>
+  <g fill="#dce8cf" stroke="#fffaf0" stroke-width="5">
+    <path d="M0 0h215l-24 145-75 55L0 160z"/><path d="M215 0h192l-5 93-85 53-126-1z"/>
+    <path d="M407 0h170l-10 118-90 45-81-70z"/><path d="M577 0h183v48l-42 42-123 28-28-45z"/>
+    <path d="M0 160l116 40 65 15 80 19 36 60-42 43-130 4L0 300z"/>
+    <path d="M181 215l126-69 84-53 88 32 38 89-44 102-107 5-51-29-42 45-68-45z"/>
+    <path d="M407 93l81 70 35 88 74-55-5-78-15-45-94 45z"/>
+    <path d="M307 315l44-29 52 29 107-5 25 64-120 35-107-37z"/>
+    <path d="M535 251l44-55 7 94 32 48-24 92h-76l-25-64z"/>
+  </g>
+  <g fill="none" stroke="#fffdf5" stroke-width="3" opacity=".8">
+    <path d="M34 0q54 124 30 250t35 180M143 0q30 130-6 235t44 195M275 0q-24 92 10 175t-20 255M500 0q-35 96 15 172t-24 258"/>
+    <path d="M0 106q127 37 260 6t330 5M0 270q120-44 250 1t337-25M90 385q133-55 256-8t231-6"/>
+  </g>
+  <ellipse cx="397" cy="237" rx="164" ry="128" fill="#efb9a4" opacity=".34"/>
+  <ellipse cx="397" cy="237" rx="118" ry="93" fill="#efb9a4" opacity=".25"/>
+  <g fill="#23384f" font-family="Georgia,serif" font-size="17" font-weight="700" text-anchor="middle">
+    <text x="282" y="43">VERMONT</text><text x="486" y="87">NEW HAMPSHIRE</text><text x="684" y="65">MAINE</text>
+    <text x="95" y="291">NEW YORK</text><text x="350" y="386">CONNECTICUT</text><text x="532" y="384">RHODE ISLAND</text>
+    <text x="404" y="327">MASSACHUSETTS</text>
+  </g>
+  <path d="M398 185c-13 0-23 10-23 23 0 17 23 44 23 44s23-27 23-44c0-13-10-23-23-23z" fill="#a63b43"/>
+  <circle cx="398" cy="208" r="7" fill="#fff"/>
+  <text x="402" y="271" fill="#1c3047" font-family="Georgia,serif" font-size="17" font-weight="700" text-anchor="middle">Baldwinville</text>
+  <text x="402" y="291" fill="#1c3047" font-family="Georgia,serif" font-size="16" font-weight="700" text-anchor="middle">MA</text>
+</svg>
